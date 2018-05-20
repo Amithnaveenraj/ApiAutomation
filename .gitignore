@@ -1,0 +1,10 @@
+
+*.MF
+target/classes/META-INF/maven/com.apiautomation.testing/test/pom.xml
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+soapui.log
+soapui-errors.log
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+global-groovy.log
